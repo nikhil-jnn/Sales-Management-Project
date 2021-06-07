@@ -1,4 +1,9 @@
 # Sales-Management-Project
+
+## Project Sample
+![0cc43fe49c864d29165de56fbb07d9ce54f41ee6](https://user-images.githubusercontent.com/83585688/120959107-b1eb7a80-c776-11eb-82ca-69b0c54436aa.gif)
+
+
 ## Business Request
 The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
 
@@ -46,8 +51,6 @@ The finished sales management dashboard first page works as a dashboard and over
 - ### Product Details Dashoard
 <img width="737" alt="Product Details" src="https://user-images.githubusercontent.com/83585688/120994778-723a8800-c7a2-11eb-8c94-e92fe04e803e.png">
 
-## Project Sample
-![0cc43fe49c864d29165de56fbb07d9ce54f41ee6](https://user-images.githubusercontent.com/83585688/120959107-b1eb7a80-c776-11eb-82ca-69b0c54436aa.gif)
 
 
 This was a personal project based on fictional company and sample dataset.
